@@ -4,7 +4,9 @@
         "target": "ES6",
         "module": "CommonJS",
         "outDir": "./lib",
-        "esModuleInterop": true
+        //"esModuleInterop": true,
+        //"moduleResolution": "Node",
+        //"allowJs": true
    },
    "include": ["src/**/*"],
    "exclude": ["node_modules", "**/*.spec.ts"]

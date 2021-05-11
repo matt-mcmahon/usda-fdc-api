@@ -13,7 +13,9 @@
 import * as api from "./api"
 import { Configuration } from "./configuration"
 
-const config: Configuration = {}
+const config: Configuration = {
+  apiKey: "TUxkvutfUYwOQ8I0W0l4T7JEFhBYwHasyzkLfRuI"
+}
 
 describe("FDCApi", () => {
   let instance: api.FDCApi

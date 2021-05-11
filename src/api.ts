@@ -1,4 +1,4 @@
-/// <reference path="./custom.ts" />
+/// <reference path="./custom.d.ts" />
 // tslint:disable
 /**
  * Food Data Central API
