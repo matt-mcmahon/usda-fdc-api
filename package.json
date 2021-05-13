@@ -1,6 +1,6 @@
 {
   "name": "usda-fdc-api-typescript-client",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "Typescript client for USDA FDC API",
   "main": "lib/index.js",
   "files": [
